@@ -1,0 +1,16 @@
+body .sl-overlay {
+  background: rgba(46, 47, 66, 0.9);
+}
+
+body .sl-wrapper .sl-counter {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+body .sl-wrapper .sl-close {
+  color: white;
+}
+
+body .sl-caption {
+  font-family: 'Montserrat', sans-serif;
+}
